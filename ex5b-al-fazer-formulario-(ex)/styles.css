@@ -1,0 +1,36 @@
+.custom-form {
+    background: linear-gradient(145deg, rgb(168, 207, 128), #74b5e0)!important;
+    padding: 0.8rem;
+    border-radius: 15px;
+    width: 25rem;
+}
+
+h2 {
+    padding-left: 9rem;
+}
+
+.form-label {
+    color: #ffffff;
+    padding: 0.2rem;
+}
+
+.custom-icon {
+    background-color: #e7e7e7;
+    border: #e7e7e7;
+}
+
+.btn.btn-light {
+    padding: 0.4rem;
+    width: 22rem;
+    margin-top: -1rem;
+    margin-left: -1.85rem;
+}
+
+.container {
+    padding: 2rem;
+    width: 37rem;
+}
+
+.input-group {
+    width: 22rem;
+}
